@@ -14,18 +14,20 @@ const Projects = () => (
     <Grid container spacing={3}>
       <Grid item xs={12} sm={6} md={4}>
         <ProjectCard
-          title="Food Recipe App"
-          description="Search and view your favorite recipes with videos. Built using React and TheMealDB API."
-          image="https://via.placeholder.com/300"
-          github="https://github.com/yourusername/food-recipe-app"
+          title="Notes App"
+          description="Create note/https://sanyukta-note-app.netlify.app/"
+          image="/images/notes_app_project.png"
+          github="https://github.com/SanyuktaYadav/notes-app"
+          deployLink={"https://sanyukta-note-app.netlify.app/"}
         />
       </Grid>
       <Grid item xs={12} sm={6} md={4}>
         <ProjectCard
-          title="Music Player"
-          description="Scroll and play your favorite songs. Built using React."
-          image="https://via.placeholder.com/300"
-          github="https://github.com/yourusername/music-player"
+          title="Greeting Card Maker"
+          description="Create your own customizable greeting card, try one for yourself!"
+          image="/images/greeting_card_maker_project.png"
+          github="https://github.com/SanyuktaYadav/celebration-card-maker"
+          deployLink="https://sanyukta-card-maker.netlify.app/"
         />
       </Grid>
     </Grid>
