@@ -28,6 +28,7 @@ const Contact = () => {
             border: "2px solid",
             borderColor: primaryColor,
             color: primaryColor,
+            textDecoration: "none",
           }}
         >
           LinkedIn
@@ -42,6 +43,7 @@ const Contact = () => {
             border: "2px solid",
             borderColor: primaryColor,
             color: primaryColor,
+            textDecoration: "none",
           }}
         >
           GitHub
@@ -56,6 +58,7 @@ const Contact = () => {
             border: "2px solid",
             borderColor: primaryColor,
             color: primaryColor,
+            textDecoration: "none",
           }}
         >
           Leetcode
