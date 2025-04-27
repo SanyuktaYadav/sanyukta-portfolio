@@ -17,9 +17,6 @@ const Contact = () => {
       <Typography>
         <b>Email:</b> sanyuktayadav77@gmail.com
       </Typography>
-      <Typography>
-        <b>Phone:</b> +91 7045375553
-      </Typography>
       <Typography sx={{ marginY: 2 }}>
         <a
           href="https://www.linkedin.com/in/sanyuktayadav77/"
